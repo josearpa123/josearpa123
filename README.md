@@ -32,7 +32,7 @@ Soy estudiante de 6° semestre de Ingeniería en Sistemas en la Universidad Coop
 ---
 
 ### 🔗 Conéctate Conmigo
-- **LinkedIn:** [linkedin.com/in/tu-nombre](https://www.linkedin.com/in/jose-david-arias-pantoja-791b011a2/)
+- **LinkedIn:** [linkedin.com/in/Jose David Arias Pantoja](https://www.linkedin.com/in/jose-david-arias-pantoja-791b011a2/)
 - **Correo:** joseariaspantoj@gmail.com
 ---
 
