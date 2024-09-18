@@ -14,7 +14,7 @@ Soy estudiante de 6° semestre de Ingeniería en Sistemas en la Universidad Coop
 - **Gestión de Proyectos:** Metodologías ágiles (Scrum), planificación y control de versiones con Git
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,figma,github,html,java,wordpress,linux,mongodb,mysql,postman,py,vscode,androidstudio,git,idea,ubuntu,vim,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,discord,docker,postgres,figma,github,html,java,wordpress,linux,mongodb,mysql,postman,py,vscode,androidstudio,git,idea,ubuntu,vim,kubernetes&perline=14" />
   </a>
 </p>
 
