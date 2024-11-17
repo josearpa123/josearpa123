@@ -22,8 +22,8 @@ Soy estudiante de 6° semestre de Ingeniería en Sistemas en la Universidad Coop
 
 ### 📂 Proyectos Destacados
 1. **Sistema de produccion de Cafe** (enterprise architect)
-   - Aplicación móvil para monitorear el capital de una empresa, integrando gráficos y reportes.
-   - [Ver Código](https://github.com/josearpa123/Sistema-produccion-cafe)
+   -Sistema para la gestión de producción y compra de café
+   - [Ver Diseño](https://github.com/josearpa123/Sistema-produccion-cafe)
 
 2. **Sistema de Replicación en Bases de Datos PostgreSQL** (Docker, PostgreSQL)
    - Configuración de replicación en cadena utilizando contenedores Docker para asegurar la escalabilidad y redundancia de bases de datos.
