@@ -28,7 +28,7 @@ Soy estudiante de 7° semestre de Ingeniería en Sistemas en la Universidad Coop
 
 2. **Sistema de Replicación en Bases de Datos PostgreSQL** (Docker, PostgreSQL)
    - Configuración de replicación en cadena utilizando contenedores Docker para asegurar la escalabilidad y redundancia de bases de datos.
-   - [Ver Código](https://github.com/tu-usuario/replicacion-postgresql-docker)
+   - [Ver Código](https://github.com/josearpa123/Proyecto-Dockerizado-con-ETL-Oracle-y-PostgreSQL)
 
 ---
 
