@@ -1,7 +1,7 @@
 # 👋 Hola, soy **Jose David Arias** 
 
 ### 🎓 Estudiante de Ingeniería en Sistemas
-Soy estudiante de 7° semestre de Ingeniería en Sistemas en la Universidad Cooperativa de Colombia, con experiencia en el desarrollo de software, bases de datos y gestión de proyectos. Apasionado por aprender nuevas tecnologías y crear soluciones eficientes y escalables.
+Soy estudiante de 9° semestre de Ingeniería en Sistemas en la Universidad Cooperativa de Colombia, con experiencia en el desarrollo de software, bases de datos y gestión de proyectos. Apasionado por aprender nuevas tecnologías y crear soluciones eficientes y escalables.
 
 ---
 
