@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Backend+%7C+Bases+de+Datos+%7C+DevOps;Java+%E2%80%A2+Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Backend+%7C+Bases+de+Datos+%7C+SaaS;NestJS+%E2%80%A2+Spring+Boot+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,9 +19,9 @@
 
 Estudiante de **10° semestre de Ingeniería en Sistemas** en la **Universidad Cooperativa de Colombia** 📍 Cali, Colombia.
 
-Me enfoco en **desarrollo backend, bases de datos y DevOps**: diseño modelos relacionales, configuro replicación de bases de datos con Docker y construyo aplicaciones web y móviles. Me gusta crear soluciones eficientes, escalables y bien documentadas.
+Me enfoco en **backend, bases de datos y producto**: construyo plataformas SaaS multi-tenant para negocios reales de Colombia (compraventas de café, comercios pequeños), cuidando la arquitectura, la integridad de los datos y el despliegue con Docker.
 
-- 🔭 Actualmente trabajo en proyectos de **bases de datos distribuidas, ETL y arquitectura de software**
+- 🔭 Actualmente construyo **[Coffee Manager](https://github.com/josearpa123/Caf-_manager)**, un SaaS para compraventas de café, preparándolo para pilotos
 - 🌱 Estoy aprendiendo **DevOps (CI/CD, contenedores) y seguridad informática**
 - 🤝 Abierto a **prácticas, proyectos colaborativos y hackathons**
 - 💬 Pregúntame sobre **PostgreSQL, Docker, Java o Python**
@@ -42,8 +42,14 @@ Me enfoco en **desarrollo backend, bases de datos y DevOps**: diseño modelos re
 
 **Frameworks y móvil**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Bases de datos**
@@ -66,19 +72,51 @@ Me enfoco en **desarrollo backend, bases de datos y DevOps**: diseño modelos re
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Metodologías:** Scrum · Diseño relacional · Roles y permisos · Replicación de bases de datos · Modelado UML (Enterprise Architect)
+**Prácticas:** Arquitectura multi-tenant · API REST · ADR · Monorepos (Turborepo) · Diseño relacional · Replicación de bases de datos · Scrum · UML
 
 ---
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
+### ☕ [Coffee Manager](https://github.com/josearpa123/Caf-_manager) · [Ver demo →](https://caf-manager-web.vercel.app)
+
+**SaaS multi-tenant para compraventas de café pergamino en Colombia.** Reemplaza el cuaderno y el Excel del punto de compra: recepción con control de calidad (humedad, factor de rendimiento, defectos), bodega con secado y trilla, ventas y contratos, pagos, anticipos, préstamos y reportes exportables a Excel/CSV. MVP funcional de punta a punta.
+
+- Monolito modular con decisiones registradas como **ADR**, monorepo con **pnpm + Turborepo**
+- Aislamiento por `tenantId` que falla cerrado, inventario como **ledger** inmutable, roles y permisos por negocio, auditoría automática
+- Panel de super-administrador con **planes y límites** por negocio
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 👾 [Oficina de Agentes](https://github.com/josearpa123/Oficina_agentes)
+
+**Oficina en pixel-art que muestra en vivo qué hacen tus agentes de IA** (Claude Code, Copilot CLI, Gemini CLI): en qué sala y proyecto trabajan, qué tarea tienen, cuántos tokens gastan y cuánto plan queda. Self-hosted y 100 % local, con API protegida por token; funciona en navegador, como PWA y como app Android.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### 🚗 [InTAS + ML: pipeline reproducible](https://github.com/josearpa123/InTAS_Gradient_Boosting)
+
+**Pipeline de machine learning sobre un sistema ciber-físico-social:** movilidad vehicular simulada con SUMO y red celular, procesada con **Gradient Boosting**. Ejecución reproducible local y con Docker, con trazabilidad de entradas y salidas por etapa.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SUMO](https://img.shields.io/badge/SUMO-simulación-555555?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Más proyectos
+
+| Proyecto | Qué es | Stack |
 |---|---|---|
-| ☕ [**Sistema de producción de café**](https://github.com/josearpa123/Sistema-produccion-cafe) | Diseño integral de un sistema para gestionar la producción y compra de café (proyecto universitario). | Enterprise Architect · UML |
-| 🐳 [**Replicación PostgreSQL + ETL a Oracle**](https://github.com/josearpa123/Proyecto-Dockerizado-con-ETL-Oracle-y-PostgreSQL) | Aplicaciones dockerizadas sobre PostgreSQL con réplica y un proceso ETL que transfiere los datos a Oracle. | Docker · PostgreSQL · Oracle · Python |
-| 📊 [**Gestión de ventas y reportes**](https://github.com/josearpa123/Sistema-de-gestion-de-ventas-y-repostes) | Sistema para registrar ventas y generar reportes. | Python |
-| 🤖 [**InTAS Gradient Boosting**](https://github.com/josearpa123/InTAS_Gradient_Boosting) | Modelo de machine learning con Gradient Boosting. | Python |
-| 🌐 [**Portafolio personal**](https://github.com/josearpa123/Portfolio) | Mi portafolio web, desplegado en Vercel. [Ver en vivo →](https://portfolio-jose-david-arias-pantojas-projects.vercel.app/) | TypeScript · Vercel |
+| 🐳 [**Replicación PostgreSQL + ETL a Oracle**](https://github.com/josearpa123/Proyecto-Dockerizado-con-ETL-Oracle-y-PostgreSQL) | Apps dockerizadas sobre PostgreSQL con réplica y un ETL que transfiere los datos a Oracle. | Docker · PostgreSQL · Oracle · Python |
+| 📈 [**CafeTrack**](https://github.com/josearpa123/Coffe_Track) | API REST para registrar y analizar precios del café local e internacional, con integración a APIs externas. | Java 21 · Spring Boot 3 · JPA · OpenAPI |
+| 🌐 [**Portafolio**](https://github.com/josearpa123/Portfolio) | Mi portafolio personal. [Ver en vivo →](https://portfolio-jose-david-arias-pantojas-projects.vercel.app/) | TypeScript · Vercel |
 
 ---
 
